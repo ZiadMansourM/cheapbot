@@ -1,0 +1,6 @@
+**/.vscode
+**/venv
+**/*.ini
+**/test
+
+!example/namecheap.ini
