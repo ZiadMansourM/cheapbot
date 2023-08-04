@@ -1,4 +1,4 @@
-🤖 Cheapbot
+🤖 Cheapbot - [🐳 Docker Hub](https://hub.docker.com/repository/docker/ziadmmh/cheapbot/general)
 -----------
 This plugin helps automate the `dns-01` challenge using Namecheap API.
 
