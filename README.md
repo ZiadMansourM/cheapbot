@@ -25,7 +25,7 @@ ziadh@Ziads-MacBook-Air example % tree
 version: '3'
 services:
   certbot:
-    image: ziadmmh/cheapbot:v0.0.1
+    image: ziadmmh/cheapbot:v0.0.3
     volumes:
       - ./certs:/etc/letsencrypt/live
       - ./logs:/var/log/letsencrypt
