@@ -1,5 +1,7 @@
 🤖 Cheapbot
 -----------
+![DALL·E 2023-12-26 13 57 02 - Design a logo for 'CheapBot' with a focus on the automation of DNS-01 challenges for NameCheap services  The logo should visually convey high-tech aut](https://github.com/ZiadMansourM/cheapbot/assets/64917739/6ddc5e43-ca8f-4b89-b0c7-64938d22fdbb)
+
 This plugin helps automate the `dns-01` challenge using Namecheap API.
 
 Repo | Link
